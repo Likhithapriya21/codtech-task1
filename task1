@@ -1,0 +1,22 @@
+/*This is a python program that acts as a basic calculator. it promts the user
+to enter two numbers and choose an operation (addition, subtraction, multiplication, division)
+then, it perform the selected operation and display the result to the user.*/
+#PROGRAM
+print("select the operation")
+print("1.Addition")
+print("2.Substraction")
+print("3.Multiplication")
+print("4.Division")
+n1=float(input("enter first number"))
+n2=float(input("enter second number"))
+ch=int(input("\n enter your choice(1/2/3/4):"))
+if ch==1:
+    print(f"{n1}+{n2}={n1+n2}")
+elif ch==2:
+    print(f"{n1-n2}={n1-n2}")
+elif ch==3:
+    print(f"{n1}*{n2}={n1*n2}")
+elif ch==4:
+    print(f"{n1}/{n2}={n1/n2}")
+else:
+    print("\n invalid choice...")
