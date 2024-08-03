@@ -15,5 +15,8 @@ Key Activities:
 3.Display the result: After performing the calculation, the program will display the result to the user in a  readable and user-friendly format.
 Technologies used:
 1.python: The primary programming language used to complete the task.
-2.Input/Output handling: input() function for reading user input and print() function for displaying the result.
+2.Input/Output handling: input() function for reading user input and print() function for displaying the result. 
+3.Control Structures: if-else is used for this project.
+Key Insights:
+1.
 
