@@ -18,5 +18,11 @@ Technologies used:
 2.Input/Output handling: input() function for reading user input and print() function for displaying the result. 
 3.Control Structures: if-else is used for this project.
 Key Insights:
-1.
+1.Modularity and Reusability.
+2.Input validation and error handling.
+3.Control flow management.
+4.User-friendly interface.
+
+
+
 
